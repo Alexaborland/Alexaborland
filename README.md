@@ -13,10 +13,10 @@
 
 <div id="badges">
   <a href="https://t.me/alexa_borland">
-    <img width="39px" alt="Telegram" title="Telegram" src="/Alexaborland/Alexaborland/raw/main/contacts/telegram.png" style="max-width: 100%;">
+    <img width="50px" alt="Telegram" title="Telegram" src="https://github.com/Alexaborland/Alexaborland/blob/main/contacts/telegram.png" style="max-width: 100%;">
   </a>
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=Borland3711@gmail.com">
-    <img width="39px" alt="Gmail" title="Gmail" src="/Alexaborland/Alexaborland/raw/main/contacts/gmail.png" style="max-width: 100%;">
+    <img width="50px" alt="Gmail" title="Gmail" src="https://github.com/Alexaborland/Alexaborland/blob/main/contacts/gmail.png" style="max-width: 100%;">
   </div>
 
 
