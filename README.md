@@ -13,11 +13,13 @@
 
 <div id="badges">
   <a href="https://t.me/alexa_borland">
-    <img alt="Telegram" title="Telegram" src="/Alexaborland/Alexaborland/raw/main/contacts/telegram.png" width="50"/>
+    <img width="39px" alt="Telegram" title="Telegram" src="/Alexaborland/Alexaborland/raw/main/contacts/telegram.png" style="max-width: 100%;">
   </a>
-  <a href="Borland3711@gmail.com">
-    <img alt="Gmail" title="Gmail" src="/Alexaborland/Alexaborland/raw/main/contacts/telegram.png" width="50"/>
+  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=Borland3711@gmail.com">
+    <img width="39px" alt="Gmail" title="Gmail" src="/Alexaborland/Alexaborland/raw/main/contacts/gmail.png" style="max-width: 100%;">
   </div>
+
+
 
   ### :hammer_and_wrench: Languages and Tools :
   <img width="5%" title="Pycharm" src="https://github.com/Alexaborland/Alexaborland/assets/136263543/6d4956eb-6bd2-40b9-9f69-10a87bf5d7f6" style="max-width: 100%;">
