@@ -35,11 +35,9 @@
   <img width="5%" title="Slack" src="https://github.com/Alexaborland/Alexaborland/assets/136263543/49c49d73-2f59-4699-b27b-0dea67f0c6b9" style="max-width: 100%;">
 
   ### :fire: My Stats :
-
-<img src="https://camo.githubusercontent.com/07a7899230525f46ecb4c092bebd0064d913097b7f4ea213ebabd06e46879eb2/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d67616c7376267468656d653d746f6b796f6e69676874" alt="" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexaborland&amp;theme=tokyonight" style="max-width: 100%;">
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexaborland)](https://github.com/anuraghazra/github-readme-stats)
 
-  
 
 
 
