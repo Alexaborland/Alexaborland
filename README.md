@@ -7,7 +7,7 @@
 🟣 My name is Aleksandra, 25 y.o <br>
 🟣 I'm a manual and auto Engineer <br>
 🟣 Work as a QA for 2 years <br>
-🟣 Write autotest in Python <br>
+🟣 Write autotests in Python <br>
 🟣 Love cats 😺 <br>
 🟣 My contacts:
 
