@@ -9,7 +9,7 @@
 🟣 Work as a QA about 2 years <br>
 🟣 Write autotest in Python <br>
 🟣 Love cats 😺 <br>
-🟣 My contscts:
+🟣 My contacts:
 
 <div id="badges">
   <a href="https://t.me/alexa_borland">
