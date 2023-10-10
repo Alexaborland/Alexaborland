@@ -36,7 +36,12 @@
   <img width="5%" title="Postman" src="https://github.com/Alexaborland/Alexaborland/assets/136263543/15b3f8c9-3b53-4afb-a783-3a5ed5fe7d7b" style="max-width: 100%;">
   <img width="5%" title="Slack" src="https://github.com/Alexaborland/Alexaborland/assets/136263543/49c49d73-2f59-4699-b27b-0dea67f0c6b9" style="max-width: 100%;">
 
-  ### :fire: My Stats :
+
+  ### 💾 My projects:
+  ### UI autotests
+  #####  <img width="5%" title="GitHub" src="https://github.com/Alexaborland/Alexaborland/assets/136263543/e4691568-5e98-4782-a077-977ff7f8073f" style="max-width: 100%;">[Web shop](https://github.com/Alexaborland/qa_guru_python_6_diploma)
+  #####  <img width="5%" title="GitHub" src="https://github.com/Alexaborland/Alexaborland/assets/136263543/e4691568-5e98-4782-a077-977ff7f8073f" style="max-width: 100%;">[Diploma API Project](https://github.com/Alexaborland/qa_guru_python_6_diploma_API)
+  
   
 
 
