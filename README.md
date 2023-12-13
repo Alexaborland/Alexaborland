@@ -5,7 +5,7 @@
 
 ### :woman_technologist: About Me :
 🟣 My name is Aleksandra, 25 y.o <br>
-🟣 I'm a manual and auto Engineer <br>
+🟣 I'm a manual and auto QA Engineer <br>
 🟣 Work as a QA for 2 years <br>
 🟣 Write autotests in Python <br>
 🟣 Love cats 😺 <br>
