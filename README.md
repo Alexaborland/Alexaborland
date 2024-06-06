@@ -4,9 +4,9 @@
 </div>
 
 ### :woman_technologist: About Me :
-🟣 My name is Aleksandra, 25 y.o <br>
+🟣 My name is Aleksandra <br>
 🟣 I'm a manual and auto QA Engineer <br>
-🟣 Work as a QA for 2 years <br>
+🟣 Work as a QA for 3 years <br>
 🟣 Write autotests in Python <br>
 🟣 Love cats 😺 <br>
 🟣 My contacts:
